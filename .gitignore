@@ -1,6 +1,7 @@
 .DS_Store
 .DS_store
 
+.idea/
 target/
 
 # Compiled class file
